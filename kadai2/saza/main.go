@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/saza-ku/gopherdojo-studyroom/kadai1/saza/imgconv"
+	"github.com/saza-ku/gopherdojo-studyroom/kadai2/saza/imgconv"
 )
 
 var (

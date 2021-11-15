@@ -9,3 +9,7 @@ run: ready build
 .PHONY: ready
 ready:
 	@./init.sh
+
+.PHONY: test
+test:
+	@go test ./...
